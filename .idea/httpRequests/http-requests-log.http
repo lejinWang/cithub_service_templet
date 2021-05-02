@@ -1,0 +1,168 @@
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-24T093310.200.json
+
+###
+
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-24T091624.200.json
+
+###
+
+POST http://192.168.131.132:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-17T065728.200.json
+
+###
+
+POST http://192.168.131.132:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-17T065723.200.json
+
+###
+
+POST http://192.168.122.1:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+###
+
+POST http://192.168.122.1:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+###
+
+POST http://192.168.122.1:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+###
+
+POST http://192.168.122.1:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+###
+
+POST http://192.168.122.1:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+###
+
+POST http://192.168.122.1t:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+###
+
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-17T042740.200.json
+
+###
+
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-17T034114.200.json
+
+###
+
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-17T094600.200.json
+
+###
+
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-17T031211.200.json
+
+###
+
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-17T030605.200.json
+
+###
+
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{      "parameter": 5,     "values": [2, 2, 2, 3, 3],     "strength": 2,     "constraints": [["0/0", "1/0"], ["2/1", "4/2"], ["2/0", "3/0", "4/1"]] }
+
+<> 2019-05-17T030509.500.json
+
+###
+
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{"paramters":4}
+
+<> 2019-05-17T022655.200.json
+
+###
+
+POST http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+{"paramters":4}
+
+<> 2019-05-17T022526.200.json
+
+###
+
